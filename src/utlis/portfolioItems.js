@@ -19,9 +19,9 @@ const items = [
       id: 3,
       color: "from-violet-300 to-purple-300",
       title: "Realestate App",
-      desc: "React, RapidApi ",
-      img: "/store.png",
-      link: "/",
+      desc: "Nextjs, Figam ,RapidApi ",
+      img: "/Rezilla.png",
+      link: "https://real-estate-ruddy-mu.vercel.app/",
     },
     // {
     //   id: 4,

@@ -29,7 +29,7 @@ const PortfolioPage = ()=> {
                                     <Image src={item.img} fill alt=""/>
                                 </div>
                                 <p className="w-80 md:w-96 lg:w-[500px] lg:text-xl xl:w-[600px] text-black">{item.desc}</p>
-                                <Link href={item.link} className="flex justify-end">
+                                <Link href={item.link} target="_blank" className="flex justify-end">
                                 <button className="p-2 text-sm md:p-4 md:text-md lg:p-8 lg:text-lg border rounded-md bg-black text-white" >See Demo</button>
                                 </Link>
                             </div>
