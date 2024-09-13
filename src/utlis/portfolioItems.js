@@ -1,7 +1,15 @@
 const items = [
+  {
+    id: 0,
+    color: "from-red-300 to-blue-300",
+    title: "Wood Piece, a furniture website",
+    desc: "Next.js , React , Tailwind ",
+    img: "/wood.png",
+    link: "https://wood-rho-six.vercel.app/",
+  },
     {
       id: 1,
-      color: "from-red-300 to-blue-300",
+      color: "from-blue-300 to-violet-300",
       title: "E-commerce application with CMS",
       desc: "Next.js , Node.js , React , Prisma , SQL ",
       img: "/store.png",
